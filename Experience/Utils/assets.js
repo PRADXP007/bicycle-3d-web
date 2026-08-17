@@ -2,7 +2,7 @@ export default [
   {
     name: 'bike',
     type: 'glbModel',
-    path: '/models/bike-model.glb'
+    path: 'models/bike-model.glb'
   },
   {
     name: 'environmentMapTexture',
