@@ -13,7 +13,7 @@
 
 ## 🌐 Live Demo
 
-🔗 **[Experience the Live Web App](https://pradxp007.github.io/bicycle-3d-web/)**
+🔗 **[https://pradxp007.github.io/bicycle-3d-web/](https://pradxp007.github.io/bicycle-3d-web/)**
 
 ---
 
@@ -87,7 +87,7 @@ bicycle-3d-web/
 
 ### Prerequisites
 
-Make sure you have [Node.js](https://nodejs.org/) installed (v16+ recommended):
+Make sure you have [Node.js](https://nodejs.org/) installed:
 
 ```bash
 node -v
@@ -95,8 +95,6 @@ npm -v
 ```
 
 ### Installation
-
-Clone the repository and install the project dependencies:
 
 ```bash
 git clone https://github.com/PRADXP007/bicycle-3d-web.git
@@ -106,40 +104,17 @@ npm install
 
 ### Running Locally
 
-Start the Vite development server:
+Start the development server:
 
 ```bash
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) (or the port indicated in your terminal) to view the application.
-
 ### Building for Production
-
-To create an optimized production build:
 
 ```bash
 npm run build
 ```
-
-Preview the production build locally:
-
-```bash
-npm run preview
-```
-
----
-
-## 🚀 Enabling GitHub Pages Live Deployment
-
-This repository includes a preconfigured GitHub Actions workflow (`.github/workflows/deploy.yml`) that automatically builds and deploys your website every time you push to the `main` branch.
-
-To enable it on GitHub:
-1. Open your repository on GitHub: **[PRADXP007/bicycle-3d-web](https://github.com/PRADXP007/bicycle-3d-web)**
-2. Go to **Settings** > **Pages** (in the left sidebar).
-3. Under **Build and deployment** > **Source**, select **GitHub Actions**.
-4. Once selected, your site will be live at:
-   👉 **`https://pradxp007.github.io/bicycle-3d-web/`**
 
 ---
 
@@ -156,14 +131,6 @@ To enable it on GitHub:
 **PRADEEP H**
 - GitHub: [@PRADXP007](https://github.com/PRADXP007)
 - Email: sujiharidass87830@gmail.com
-
----
-
-## 🤝 Credits & Acknowledgements
-
-- 3D Bike Model by [market.pmnd.rs](https://market.pmnd.rs/model/bike)
-- Photos by [Josh Nuttall](https://unsplash.com/@joshnuttall)
-- Inspired by Bruno Simon's Three.js Journey and Bokoko33's design aesthetic.
 
 ---
 
