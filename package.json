@@ -1,7 +1,8 @@
 {
   "name": "bicycle-3d-web",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "author": "PRADEEP H <sujiharidass87830@gmail.com> (https://github.com/PRADXP007)",
   "scripts": {
     "dev": "vite --host",
     "build": "vite build",
